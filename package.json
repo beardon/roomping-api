@@ -1,0 +1,26 @@
+{
+  "name": "roomping-api",
+  "description": "Promise-driven accessor for the Roomping API",
+  "version": "0.0.1",
+  "keywords": [
+    "api",
+    "roomping",
+    "rose"
+  ],
+  "homepage": "https://github.com/beardon/roomping-api",
+  "bugs": {
+    "url": "https://github.com/beardon/roomping-api/issues",
+    "email": "aaron.bean@beardon.com"
+  },
+  "author": {
+    "name": "Aaron Bean",
+    "email": "aaron.bean@beardon.com",
+    "url": "https://github.com/aaronbean"
+  },
+  "main": "./lib/roomping",
+  "dependencies": {
+    "bluebird": "^2.3.2",
+    "lodash": "^2.4.1",
+    "request": "^2.44.0"
+  }
+}
