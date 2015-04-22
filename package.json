@@ -1,7 +1,7 @@
 {
   "name": "roomping-api",
   "description": "Promise-driven accessor for the Roomping API",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "api",
     "roomping",
